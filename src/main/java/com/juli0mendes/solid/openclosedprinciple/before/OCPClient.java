@@ -1,6 +1,6 @@
 package com.juli0mendes.solid.openclosedprinciple.before;
 
-public class LSPClient {
+public class OCPClient {
 
     public static void main(String[] args) {
         NotificationService notificationService1 = new MobileNotificationService();
